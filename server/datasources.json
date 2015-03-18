@@ -1,0 +1,19 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "CA_Mongodb": {
+    "name": "CA_Mongodb",
+    "connector": "memory"
+  },
+  "CA_MYSQL": {
+    "host": "demo.strongloop.com",
+    "port": 3306,
+    "database": "demo",
+    "password": "L00pBack",
+    "name": "CA_MYSQL",
+    "user": "demo",
+    "connector": "mysql"
+  }
+}
